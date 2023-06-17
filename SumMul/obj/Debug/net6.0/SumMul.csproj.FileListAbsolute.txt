@@ -1,0 +1,15 @@
+E:\IDNC\SumMul\bin\Debug\net6.0\SumMul.exe
+E:\IDNC\SumMul\bin\Debug\net6.0\SumMul.deps.json
+E:\IDNC\SumMul\bin\Debug\net6.0\SumMul.runtimeconfig.json
+E:\IDNC\SumMul\bin\Debug\net6.0\SumMul.dll
+E:\IDNC\SumMul\bin\Debug\net6.0\SumMul.pdb
+E:\IDNC\SumMul\obj\Debug\net6.0\SumMul.csproj.AssemblyReference.cache
+E:\IDNC\SumMul\obj\Debug\net6.0\SumMul.GeneratedMSBuildEditorConfig.editorconfig
+E:\IDNC\SumMul\obj\Debug\net6.0\SumMul.AssemblyInfoInputs.cache
+E:\IDNC\SumMul\obj\Debug\net6.0\SumMul.AssemblyInfo.cs
+E:\IDNC\SumMul\obj\Debug\net6.0\SumMul.csproj.CoreCompileInputs.cache
+E:\IDNC\SumMul\obj\Debug\net6.0\SumMul.dll
+E:\IDNC\SumMul\obj\Debug\net6.0\refint\SumMul.dll
+E:\IDNC\SumMul\obj\Debug\net6.0\SumMul.pdb
+E:\IDNC\SumMul\obj\Debug\net6.0\SumMul.genruntimeconfig.cache
+E:\IDNC\SumMul\obj\Debug\net6.0\ref\SumMul.dll
