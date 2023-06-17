@@ -1,0 +1,15 @@
+E:\IDNC\SwapNumber\bin\Debug\net6.0\SwapNumber.exe
+E:\IDNC\SwapNumber\bin\Debug\net6.0\SwapNumber.deps.json
+E:\IDNC\SwapNumber\bin\Debug\net6.0\SwapNumber.runtimeconfig.json
+E:\IDNC\SwapNumber\bin\Debug\net6.0\SwapNumber.dll
+E:\IDNC\SwapNumber\bin\Debug\net6.0\SwapNumber.pdb
+E:\IDNC\SwapNumber\obj\Debug\net6.0\SwapNumber.csproj.AssemblyReference.cache
+E:\IDNC\SwapNumber\obj\Debug\net6.0\SwapNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\IDNC\SwapNumber\obj\Debug\net6.0\SwapNumber.AssemblyInfoInputs.cache
+E:\IDNC\SwapNumber\obj\Debug\net6.0\SwapNumber.AssemblyInfo.cs
+E:\IDNC\SwapNumber\obj\Debug\net6.0\SwapNumber.csproj.CoreCompileInputs.cache
+E:\IDNC\SwapNumber\obj\Debug\net6.0\SwapNumber.dll
+E:\IDNC\SwapNumber\obj\Debug\net6.0\refint\SwapNumber.dll
+E:\IDNC\SwapNumber\obj\Debug\net6.0\SwapNumber.pdb
+E:\IDNC\SwapNumber\obj\Debug\net6.0\SwapNumber.genruntimeconfig.cache
+E:\IDNC\SwapNumber\obj\Debug\net6.0\ref\SwapNumber.dll
